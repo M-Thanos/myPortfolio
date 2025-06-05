@@ -1,11 +1,11 @@
 {
-    "name": "absherbha_companys",
-    "short_name": "absherbha_companys",
+    "name": "dorop_console",
+    "short_name": "dorop_console",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "absherBha-companys",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
